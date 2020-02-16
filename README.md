@@ -19,6 +19,7 @@ file system.
 ## How to Contribute
 <<<<<<< HEAD
 =======
+Please fork this repository...
 
 ## Copyright
 2019 Git.training
