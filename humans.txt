@@ -7,7 +7,7 @@
 	kot -- developer -- kot@kot.pl
 
 # THANKS
-
+All my students!
     <name>
 
 # TECHNOLOGY COLOPHON
