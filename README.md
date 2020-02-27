@@ -4,6 +4,7 @@ how to use Git and Github together.
 Adding a line for rebasing example.
 Then more changes from myfeature branch too.
 Updating for emergency fix after stashing.
+Updating...
 
 ## Introduction
 This example is to show different parts 
