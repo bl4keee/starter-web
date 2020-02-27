@@ -24,5 +24,5 @@ file system.
 Please fork this repository...
 
 ## Copyright
-2019 Git.training
+2019 Git.training. All rights reserved.
 >>>>>>> add-copyright
